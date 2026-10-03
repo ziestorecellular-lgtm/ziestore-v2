@@ -1,0 +1,1 @@
+# Tidak ada dependensi eksternal. Python 3.10+ standard library saja.
